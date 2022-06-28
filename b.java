@@ -1,6 +1,8 @@
 public class b {
     public static void main(String[] args) {
-        System.out.println("i am here");
+        int a ,b ,sum=0;
+        sum=a+b;
+        System.out.println(sum);
     }
     
 }
